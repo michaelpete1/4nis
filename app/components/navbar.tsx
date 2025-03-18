@@ -27,13 +27,13 @@ export default function Navbar() {
           <Home size={20} /> Home
         </Link>
         <Link
-          href="/about"
+          href="/About"
           className="flex items-center gap-1 hover:text-gray-400 transition duration-300"
         >
           <Info size={20} /> About
         </Link>
         <Link
-          href="/contact"
+          href="/Contacts"
           className="flex items-center gap-1 hover:text-gray-400 transition duration-300"
         >
           <Mail size={20} /> Contact
